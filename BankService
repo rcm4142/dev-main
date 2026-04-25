@@ -1,17 +1,1 @@
-package com.javatechie.solid.srp;
-
-import java.util.Random;
-
-public class BankService {
-
-    public long deposit(long amount, String accountNo) {
-        //deposit amount
-        deleted amount in main
-        return 3;
-    }
-
-    public long withDraw(long amount, String accountNo) {
-        //withdraw amount
-        return 0;
-    }
-}
+server.port=80
