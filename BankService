@@ -7,7 +7,7 @@ public class BankService {
     public long deposit(long amount, String accountNo) {
        delete from feature branch
         //deposit amount from one line
-        return 2;
+        return 0;
     }
 
     public long withDraw(long amount, String accountNo) {
