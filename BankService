@@ -6,7 +6,7 @@ public class BankService {
 
     public long deposit(long amount, String accountNo) {
         //deposit amount
-        //deposit amount
+        //deposit amount from one line
         return 0;
     }
 
